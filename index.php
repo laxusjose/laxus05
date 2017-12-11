@@ -1,5 +1,5 @@
 <html>
 <title></title>
-<img src = "usecase.png">
+<img src = "activity-diagram.png">
 <body></body>
 </html>
