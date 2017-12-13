@@ -1,5 +1,5 @@
 <html>
 <style></style>
-<img src= "actdiagram.png">
+<img src= "class.png">
 <body></body>
 </html>
