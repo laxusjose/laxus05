@@ -1,5 +1,10 @@
+<!DOCTYPE html>
 <html>
-<style></style>
-<img src= "class.png">
-<body></body>
+<head>
+	<title></title>
+</head>
+<body>
+<img src ="prototype.png">
+
+</body>
 </html>
