@@ -4,7 +4,7 @@
 	<title></title>
 </head>
 <body>
-<img src = "untitled.png">
+<img src = "Untitled.png">
 
 </body>
 </html>
