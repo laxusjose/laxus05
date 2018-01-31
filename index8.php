@@ -4,9 +4,9 @@
 	<title></title>
 </head>
 <body>
-<a href="index3.php">next</a>
-<a href="index.php">preview</a>
-<img src="2.png">
+<a href="index9.php">next</a>
+<a href="index7.php">preview</a>
+<img src="8.png">
 
 </body>
 </html>
