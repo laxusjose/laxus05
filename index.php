@@ -4,8 +4,8 @@
 	<title></title>
 </head>
 <body>
-<a href="index2.php">next</a>
-<img src="1.png">
 
+<img src="1.png">
+<a href="index2.php">next</a>
 </body>
 </html>
