@@ -4,7 +4,8 @@
 	<title></title>
 </head>
 <body>
-<img src = "Untitled.png">
+<a href="index2.php">next</a>
+<img src="1.png">
 
 </body>
 </html>
